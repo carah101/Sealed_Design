@@ -1,0 +1,50 @@
+Single Player or Multiplayer?
+-Multiplayer
+
+Game Type?
+-Deathmatch
+
+What Game is this Map for?
+-Unreal Tournament 4
+
+Story
+-Temple with tall spires, green, growing things, odd angles, lots of water features, arches, smooth curves.
+
+What is this map about?
+-A large temple in pristine condition. Dedicated to water and growing things, lots of large open rooms with a sense of height.
+
+What is the objective of the map?
+-To eliminate the other player without being caught in the open.
+
+How would the level play our gameplay wise?
+-Three simple levels layered upon one another. Each level is a standard layout similar to basic CTF, lots of options for vertical traversal with shortcuts provided by weapon mastery.
+
+How should the player feel while playing?
+-Calm and peaceful moments interposed with bursts of combat before escape allows for return to quiet.
+
+How big is the map?
+-Medium 4-8 players Team Deathmatch
+
+Who is the audience?
+-Fairly experienced Unreal Tournament players, simple layout should compliment newer players too.
+
+What will make the map memorable?
+-Visually striking, bright with lots of life.
+
+Does the map look original?
+-Yes. It's not a modern industrial map or sterile sci-fi environment.
+
+What is the time of day, season, colour?
+-Afternoon, summer, greens, blues, white (marble?).
+
+What is the feel and atmosphere?
+-Should be bright and open with long sight lines broken up by pillars and other obstacles.
+
+How will the player be directed?
+-Should have clear lines of sight to the rest of the level without being able to line up easy shots all the time.
+
+What will be focused upon?
+-Atmosphere and visuals. A memomrable building.
+
+What is the visual trademark of the level?
+-Water everywhere, large arena style area at top with central shrine and greenery.
